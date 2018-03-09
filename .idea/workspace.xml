@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0030b44-58bf-49f3-84b2-af6caa131a90" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Section 2/CharBoolean.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Section 2/Double.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Section 2/FloatDouble.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Char.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Operators.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/String.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Section 1/HelloMe.java" afterPath="$PROJECT_DIR$/Section 1 - Hello World/HelloMe.java" />
+      <change beforePath="$PROJECT_DIR$/Section 1/HelloWorld.java" afterPath="$PROJECT_DIR$/Section 1 - Hello World/HelloWorld.java" />
+      <change beforePath="$PROJECT_DIR$/Section 1/Section 1.iml" afterPath="$PROJECT_DIR$/Section 1 - Hello World/Section 1.iml" />
+      <change beforePath="$PROJECT_DIR$/Section 2/CharBoolean.java" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/CharBoolean.java" />
+      <change beforePath="$PROJECT_DIR$/Section 2/Double.java" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Double.java" />
+      <change beforePath="$PROJECT_DIR$/Section 2/FloatDouble.java" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/FloatDouble.java" />
+      <change beforePath="$PROJECT_DIR$/Section 2/GeneralPrimitiveDatatypesExercise.java" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/GeneralPrimitiveDatatypesExercise.java" />
+      <change beforePath="$PROJECT_DIR$/Section 2/IntByteLongShort.java" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/IntByteLongShort.java" />
+      <change beforePath="$PROJECT_DIR$/Section 2/Section 2.iml" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Section 2.iml" />
+      <change beforePath="$PROJECT_DIR$/Section 2/Variables.java" afterPath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Variable.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +27,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Operators.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/Operators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="78" column="10" lean-forward="false" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +76,9 @@
         <option value="$PROJECT_DIR$/Section 2/FloatDouble.java" />
         <option value="$PROJECT_DIR$/Section 2/Double.java" />
         <option value="$PROJECT_DIR$/Section 2/CharBoolean.java" />
+        <option value="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Char.java" />
+        <option value="$PROJECT_DIR$/Section 2 - Primitive Datatypes/String.java" />
+        <option value="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Operators.java" />
       </list>
     </option>
   </component>
@@ -94,7 +119,7 @@
             <path>
               <item name="The Java Masterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="The Java Masterclass" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 2 - Primitive Datatypes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,12 +147,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CharBoolean">
+  <component name="RunManager" selected="Application.Operators">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Char" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Section 2" />
+      <envs />
     </configuration>
     <configuration name="CharBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -157,9 +196,9 @@
       <module name="Section 2" />
       <envs />
     </configuration>
-    <configuration name="FloatDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="FloatDouble" />
+      <option name="MAIN_CLASS_NAME" value="Operators" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -171,23 +210,9 @@
       <module name="Section 2" />
       <envs />
     </configuration>
-    <configuration name="GeneralPrimitiveDatatypesExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="GeneralPrimitiveDatatypesExercise" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Section 2" />
-      <envs />
-    </configuration>
-    <configuration name="Variables (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <option name="MAIN_CLASS_NAME" value="String" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -274,19 +299,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Variables (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GeneralPrimitiveDatatypesExercise" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FloatDouble" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Double" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CharBoolean" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Double" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CharBoolean" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Char" />
+      <item index="3" class="java.lang.String" itemvalue="Application.String" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Operators" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CharBoolean" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Double" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FloatDouble" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GeneralPrimitiveDatatypesExercise" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Variables (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Operators" />
+        <item index="1" class="java.lang.String" itemvalue="Application.String" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Char" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CharBoolean" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Double" />
       </list>
     </recent_temporary>
   </component>
@@ -308,6 +333,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="751" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -317,7 +343,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -354,7 +380,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 1/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/Section 1 - Hello World/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -373,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 1/HelloMe.java">
+    <entry file="file://$PROJECT_DIR$/Section 1 - Hello World/HelloMe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -392,7 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/Variables.java">
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/Variable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
@@ -400,7 +426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/IntByteLongShort.java">
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/IntByteLongShort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -408,7 +434,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/GeneralPrimitiveDatatypesExercise.java">
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/GeneralPrimitiveDatatypesExercise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -416,7 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/FloatDouble.java">
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/FloatDouble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
@@ -424,7 +450,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/Double.java">
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/Double.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -432,10 +458,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/CharBoolean.java">
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/CharBoolean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/Char.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/Operators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="10" lean-forward="false" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
           <folding />
         </state>
       </provider>

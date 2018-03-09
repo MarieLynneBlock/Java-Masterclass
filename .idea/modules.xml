@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Section 1/Section 1.iml" filepath="$PROJECT_DIR$/Section 1/Section 1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section 2/Section 2.iml" filepath="$PROJECT_DIR$/Section 2/Section 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 1 - Hello World/Section 1.iml" filepath="$PROJECT_DIR$/Section 1 - Hello World/Section 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 2 - Primitive Datatypes/Section 2.iml" filepath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Section 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/The Java Masterclass.iml" filepath="$PROJECT_DIR$/The Java Masterclass.iml" />
     </modules>
   </component>
