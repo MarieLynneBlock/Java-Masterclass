@@ -4,19 +4,9 @@
     <list default="true" id="e0030b44-58bf-49f3-84b2-af6caa131a90" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Section 1 - Hello World/HelloMe.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 1 - Hello World/HelloWorld.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 1 - Hello World/Section 1.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Char.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/CharBoolean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Double.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/FloatDouble.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/GeneralPrimitiveDatatypesExercise.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/IntByteLongShort.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Operators.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Section 2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/String.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Variable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Section 2/Char.java" afterPath="$PROJECT_DIR$/Section 2/Char.java" />
+      <change beforePath="$PROJECT_DIR$/Section 2/CharBoolean.java" afterPath="$PROJECT_DIR$/Section 2/CharBoolean.java" />
+      <change beforePath="$PROJECT_DIR$/Section 3/Section 3 - Expressions.iml" afterPath="$PROJECT_DIR$/Section 3/Section 3.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,24 +18,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section 1/HelloWorld.java">
+      <file leaf-file-name="Char.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section 2/Char.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#70#71#0" expanded="true" />
-                <element signature="e#121#122#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Char.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Section 2/Char.java">
+      <file leaf-file-name="Double.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section 2/Double.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FloatDouble.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section 2/FloatDouble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-117">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeneralPrimitiveDatatypesExercise.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section 2/GeneralPrimitiveDatatypesExercise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntByteLongShort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section 2/IntByteLongShort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharBoolean.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Section 2/CharBoolean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,10 +115,11 @@
         <option value="$PROJECT_DIR$/Section 2/GeneralPrimitiveDatatypesExercise.java" />
         <option value="$PROJECT_DIR$/Section 2/FloatDouble.java" />
         <option value="$PROJECT_DIR$/Section 2/Double.java" />
-        <option value="$PROJECT_DIR$/Section 2/CharBoolean.java" />
         <option value="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Char.java" />
         <option value="$PROJECT_DIR$/Section 2 - Primitive Datatypes/String.java" />
         <option value="$PROJECT_DIR$/Section 2 - Primitive Datatypes/Operators.java" />
+        <option value="$PROJECT_DIR$/Section 2/Char.java" />
+        <option value="$PROJECT_DIR$/Section 2/CharBoolean.java" />
       </list>
     </option>
   </component>
@@ -128,16 +156,6 @@
             <path>
               <item name="The Java Masterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="The Java Masterclass" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The Java Masterclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The Java Masterclass" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The Java Masterclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The Java Masterclass" type="462c0819:PsiDirectoryNode" />
               <item name="Section 3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -153,6 +171,9 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -171,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.Char">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -331,11 +352,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloMe" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Operators" />
-        <item index="3" class="java.lang.String" itemvalue="Application.String" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Char" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Char" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloMe" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Operators" />
+        <item index="4" class="java.lang.String" itemvalue="Application.String" />
       </list>
     </recent_temporary>
   </component>
@@ -412,58 +433,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/IntByteLongShort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/GeneralPrimitiveDatatypesExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/FloatDouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/CharBoolean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Section 2/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section 2/Operators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" column="10" lean-forward="false" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -479,24 +452,147 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2/Operators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Section 1/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#70#71#0" expanded="false" />
+            <element signature="e#121#122#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2/FloatDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2/GeneralPrimitiveDatatypesExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2/IntByteLongShort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Section 2/Char.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Section 2/CharBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Section 2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
