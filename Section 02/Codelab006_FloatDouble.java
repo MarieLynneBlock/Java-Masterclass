@@ -1,4 +1,4 @@
-public class FloatDouble {
+public class Codelab006_FloatDouble {
 
     public static void main(String[] args) {
 

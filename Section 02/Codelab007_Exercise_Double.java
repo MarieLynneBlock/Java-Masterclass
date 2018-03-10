@@ -1,8 +1,8 @@
-public class Double {
+public class Codelab007_Exercise_Double {
 
     public static void main(String[] args) {
 
-     /*
+        /*
         EXERCISE:
             Convert a given number of pounds to kilogram
             1. Create a variable to store the number of pounds

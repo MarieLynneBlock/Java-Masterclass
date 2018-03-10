@@ -1,6 +1,7 @@
-public class Variable {
+public class Codelab003_Variables {
 
     public static void main(String[] args) {
+
         System.out.println("Hello, first variables in Java!");
 
         int myFirstNumber = (10 + 5) + (2 * 10);
@@ -18,3 +19,4 @@ public class Variable {
     }
 
 }
+

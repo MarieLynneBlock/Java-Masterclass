@@ -1,4 +1,4 @@
-public class IntByteLongShort {
+public class Codelab004_IntByteLongShort {
 
     public static void main(String[] args) {
 

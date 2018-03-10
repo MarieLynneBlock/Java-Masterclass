@@ -1,4 +1,4 @@
-public class CharBoolean {
+public class Codelab008_CharBoolean {
 
     public static void main(String[] args) {
 

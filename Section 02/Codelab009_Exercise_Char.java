@@ -1,4 +1,4 @@
-public class Char {
+public class Codelab009_Exercise_Char {
 
     public static void main(String[] args) {
 
@@ -8,7 +8,6 @@ public class Char {
 
         char unicodeSymbol = '\u00AE';
         System.out.println("The symbol: " + unicodeSymbol);
-
     }
 
 }

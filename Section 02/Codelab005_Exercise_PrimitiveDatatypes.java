@@ -1,4 +1,4 @@
-public class GeneralPrimitiveDatatypesExercise {
+public class Codelab005_Exercise_PrimitiveDatatypes {
 
     public static void main(String[] args) {
 
