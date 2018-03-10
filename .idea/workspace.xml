@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0030b44-58bf-49f3-84b2-af6caa131a90" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Section 03/Section03B_Methods/Codelab013_MobProgramming_MethodOverloading.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Section 03/Section03B_Methods/Codelab014_Solution_MethodOverloading.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Section 03/Section03B_Methods/Codelab015_CodeChallenge_Methods.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Section 03/Section03B_Methods/Codelab015_Solution_Methods.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Section 04/Section 04.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Section 04/Section04A_SwitchStatements/Codelab016_MobProgramming_SwitchStatement.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Section 04/Section04A_SwitchStatements/Codelab017_CodeChallenge_SwitchStatements.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Section 03/Section03B_Methods/Codelab013_MethodOverloading.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,6 +79,8 @@
         <option value="$PROJECT_DIR$/Section 03/Section03B_Methods/Codelab013_MobProgramming_MethodOverloading.java" />
         <option value="$PROJECT_DIR$/Section 03/Section03B_Methods/Codelab015_CodeChallenge_Methods.java" />
         <option value="$PROJECT_DIR$/Section 03/Section03B_Methods/Codelab015_Solution_Methods.java" />
+        <option value="$PROJECT_DIR$/Section 04/Section04A_SwitchStatements/Codelab016_MobProgramming_SwitchStatement.java" />
+        <option value="$PROJECT_DIR$/Section 04/Section04A_SwitchStatements/Codelab017_CodeChallenge_SwitchStatements.java" />
       </list>
     </option>
   </component>
@@ -112,6 +113,22 @@
             <path>
               <item name="The Java Masterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="The Java Masterclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Java Masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Java Masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Java Masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Java Masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Java Masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Java Masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 04" type="462c0819:PsiDirectoryNode" />
+              <item name="Section04A_SwitchStatements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,45 +167,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Codelab017_CodeChallenge_SwitchStatements">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="Codelab003_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Codelab003_Variables" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Section 02" />
-      <envs />
-    </configuration>
-    <configuration name="Codelab012_KeywordsExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Section03A_KeywordsExpressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Section03A_KeywordsExpressions.Codelab012_KeywordsExpressions" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Section 3" />
-      <envs />
     </configuration>
     <configuration name="Codelab014_Exercise_MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -245,6 +229,44 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Section 3" />
+      <envs />
+    </configuration>
+    <configuration name="Codelab016_MobProgramming_SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Section04A_SwitchStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Section04A_SwitchStatements.Codelab016_MobProgramming_SwitchStatement" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Section 04" />
+      <envs />
+    </configuration>
+    <configuration name="Codelab017_CodeChallenge_SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Section04A_SwitchStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Section04A_SwitchStatements.Codelab017_CodeChallenge_SwitchStatements" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Section 04" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -322,19 +344,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Codelab003_Variables" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Codelab012_KeywordsExpressions" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Codelab014_Exercise_MethodOverloading" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Codelab014_Solution_MethodOverloading" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Codelab015_Solution_Methods" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Codelab014_Exercise_MethodOverloading" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Codelab014_Solution_MethodOverloading" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Codelab015_Solution_Methods" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Codelab016_MobProgramming_SwitchStatement" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Codelab017_CodeChallenge_SwitchStatements" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Codelab014_Exercise_MethodOverloading" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Codelab015_Solution_Methods" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Codelab014_Solution_MethodOverloading" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Codelab012_KeywordsExpressions" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Codelab003_Variables" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Codelab017_CodeChallenge_SwitchStatements" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Codelab016_MobProgramming_SwitchStatement" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Codelab014_Exercise_MethodOverloading" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Codelab015_Solution_Methods" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Codelab014_Solution_MethodOverloading" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +392,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3352181" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -650,6 +672,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 04/Section04A_SwitchStatements/Codelab016_MobProgramming_SwitchStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section 04/Section04A_SwitchStatements/Codelab017_CodeChallenge_SwitchStatements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
