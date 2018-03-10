@@ -1,6 +1,6 @@
 package Section04C_DoWhileLoops;
 
-public class Codelab24_CodeChallenge_DoWhileLoop {
+public class Codelab024_CodeChallenge_DoWhileLoop {
 
     public static void main(String[] args) {
 
