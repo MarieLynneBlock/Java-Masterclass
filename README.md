@@ -1,6 +1,9 @@
 # Java Masterclass
 All coursework for the Java Masterclass by Tim Buchalka (Learn Programming Academy teacher), learning Java 8 and Java 9 core development, including mob programming sessions with the Java Community and code challenges. Joined this community in support of my training at work, the Java Academy @ LCM.
 
+   go to [The Course at Udemy](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/)   
+   or to [The Learn Programming Academy](http://learnprogramming.academy)   
+
 ## Curriculum
 
 - [x] Section 01 - First Steps
